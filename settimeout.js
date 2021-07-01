@@ -1,5 +1,5 @@
 const currentTime = new Date();
-//console.log(currentTime);
+console.log(currentTime);
 console.log("first friend Happy birtday");
 setTimeout(function(){
     console.log("second friend Happy birtday");
